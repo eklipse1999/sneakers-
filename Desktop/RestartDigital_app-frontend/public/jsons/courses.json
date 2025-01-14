@@ -1,0 +1,72 @@
+
+[
+    {
+        "id":1,
+        "course_name": "Front-end Web Dev",
+        "image_path": "image/webdev.jpg",
+        "course_description": 
+        {
+            "author":"David Sapa Blaki",
+            "course_starred": 4.5,
+            "course_info1": "Frontend development focuses on creating the user interface and experience of websites and applications. It combines HTML, CSS, and JavaScript to craft visually appealing, interactive designs. Developers use frameworks like React or Vue.js to build efficient, responsive interfaces. Frontend development bridges aesthetics with functionality, ensuring seamless interaction between users and technology.",
+            "hours": 6
+        }
+    },
+    {
+        "id":2,
+        "course_name":"cyberSecurity",
+        "image_path": "image/cyber.jpg",
+        "course_description":{
+            "author":"Mustapha Haadi",
+            "course_starred":4.5,
+            "course_info1":"Cybersecurity is crucial for protecting digital systems, networks, and data from malicious attacks, unauthorized access, and damage. As technology advances, the threat landscape grows, making it essential for businesses and individuals to implement robust security measures. Effective cybersecurity prevents data breaches, safeguards privacy, and ensures the integrity of digital operations.",
+            "hours": 8
+        }
+    },
+    {
+        "id": 3,
+        "course_name": "Backend Dev",
+        "image_path": "image/backend.jpg",
+        "course_description":{
+            "author":"Baffour Samuel Amoh",
+            "course_starred": 5.0,
+            "course_info1": "Backend development focuses on building and maintaining the server-side of applications, ensuring efficient data management, security, and communication with the frontend. It involves using programming languages like Python, Java, or Node.js, along with databases. Backend developers create APIs, implement business logic, and optimize systems for performance, enabling seamless user experiences.",
+            "hours": 7
+        }
+    },
+    {
+       "id": 4,
+        "course_name": "Java Programming Language",
+        "image_path": "image/data.jpg",
+        "course_description":{
+            "author":"Baffour Samuel Amoh",
+            "course_starred": 5.0,
+            "course_info1": "Java is a versatile, object-oriented programming language widely used for developing robust applications. Known for its platform independence through the (Write Once, Run Anywhere) principle, Java supports multithreading, networking, and security features. Its vast libraries and frameworks make it ideal for web, mobile, and enterprise solutions, fostering innovation and scalability.",
+            "hours": 7
+        } 
+    },
+    {
+        "id": 5,
+        "course_name": "Graphic Design",
+        "image_path": "image/design.jpg",
+        "course_description":{
+            "author":"Zadock Selasi",
+            "course_starred": 5.0,
+            "course_info1": "UI (User Interface) and UX (User Experience) design are vital in creating digital products. UI focuses on the visual and interactive aspects, ensuring aesthetics and usability. UX emphasizes functionality, user satisfaction, and seamless interaction. Together, they craft engaging, efficient experiences, enhancing accessibility and delighting users across diverse applications and platforms available.",
+            "hours": 5
+            
+   
+        }
+    },
+    {
+        "id": 6,
+        "course_name": "Python Programming Language",
+        "image_path": "image/person3.jpg",
+        "course_description":{
+            "author":"Emmanuel Owusu",
+            "course_starred": 5.0,
+            "course_info1": "Python is a versatile, high-level programming language known for its simplicity and readability. It supports multiple paradigms, including object-oriented and functional programming. Widely used in web development, data analysis, artificial intelligence, and automation, Python's rich ecosystem of libraries and frameworks, like Django and NumPy, makes it a favorite among developers globally.",
+            "hours": 6
+        }
+    }
+]

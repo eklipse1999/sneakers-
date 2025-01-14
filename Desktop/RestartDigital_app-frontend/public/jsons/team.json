@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "name":"Mustapha Haadi",
+        "position":"Founder & CEO",
+        "image_path":"/team/haadi.png",
+        "linkedin_account":"https://www.linkedin.com/in/mustapha-haadi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "info":"Mustapha Haadi, Founder and CEO of ReStart Digital revolutionizes AI-driven solutions, scaling startups globally with innovation, leadership, and visionary strategies."
+        
+    },
+    {
+        "id":2,
+        "name":"David Sapa Blaki",
+        "position":"Frontend Developer",
+        "image_path":"/team/David.png",
+        "linkedin_account":"https://www.linkedin.com/in/david-sapa-blaki-42996233a/",
+        "info":"David, A tech startup frontend developer creates user-friendly interfaces, designs responsive layouts, implements UI features, and collaborates closely with designers and backend teams."
+        
+    },
+    {
+        "id":3,
+        "name":"Zadock Selasi",
+        "position":"UI/UX Designer",
+        "image_path":"/team/zadock.png",
+        "linkedin_account":"https://www.linkedin.com/in/zadock-selasi-58527b329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "info":"Zadock, A tech startup UI/UX designer creates intuitive, user-friendly interfaces, ensuring seamless user experiences to enhance product appeal and usability."
+        
+    },
+    {
+        "id":4,
+        "name":"Amoh Samuel Baffour",
+        "position":"Backend Engineer",
+        "image_path":"/team/samuel.png",
+        "linkedin_account":"https://www.linkedin.com/in/samuel-amoh-9a5224335?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW2GH3FR%2BS0eAOJJznO8%2Fqw%3D%3D",
+        "info":"Samuel, A tech startup backend engineer develops and maintains server-side logic, database systems, APIs, and integrations to support scalable, robust applications."
+        
+    },
+    {
+        "id":5,
+        "name":"Owusu Emmanuel",
+        "position":"Python Developer",
+        "image_path":"/team/emma.png",
+        "linkedin_account":"https://www.linkedin.com/in/owusu-emmanuel-a23532311?trk=contact-info",
+        "info":"Emmanuel, A Python developer specializes in creating, testing, and maintaining software using Python, excelling in web development, data analysis, or machine learning."
+       
+    }
+]
